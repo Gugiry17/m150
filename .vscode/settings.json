@@ -1,0 +1,6 @@
+{
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": "file:///home/lenny/Documents/tbz/150_webshop/.github/workflows/deploy.yml"
+  },
+  "prettier.configPath": ".prettierrc"
+}

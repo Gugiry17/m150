@@ -1,0 +1,4 @@
+/build
+/.docusaurus
+/.github
+package-lock.json
