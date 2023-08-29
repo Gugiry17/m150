@@ -1,2 +1,2 @@
 # m150
-Bitcoin
+Bitcoin is a cryptocurrency
