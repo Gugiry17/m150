@@ -72,8 +72,10 @@ Bitcoin hat verschiedene Anwendungsbereiche:
   außerhalb von Bitcoin, wie z.B. in der Lieferkettenverfolgung und
   Abstimmungssystemen.
 
-## **Fazit**
+:::note Fazit
 
 Bitcoin hat die Finanzwelt revolutioniert und bietet eine alternative Sichtweise
 auf Geld und Wirtschaft. Es bietet Chancen und Herausforderungen und bleibt ein
 aufregendes Experiment in der Welt der digitalen Währungen.
+
+:::
