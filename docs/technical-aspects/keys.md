@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-descriptions:
+description:
   Private und Public Keys sind grundlegende Konzepte in der Kryptographie.
 ---
 
