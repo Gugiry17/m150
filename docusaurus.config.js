@@ -92,6 +92,10 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+  themes: ["@docusaurus/theme-mermaid"],
+  markdown: {
+    mermaid: true,
+  },
 };
 
 module.exports = config;
