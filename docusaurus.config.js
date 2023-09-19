@@ -77,8 +77,13 @@ const config = {
             label: "Bitcoin",
           },
           {
-            href: "https://www.tbzwiki.ch/index.php?title=Modul_150",
+            href: "https://github.com/gugiry17/m150",
             label: "GitHub",
+              position: "right",
+          },
+          {
+            href: "https://www.tbzwiki.ch/index.php?title=Modul_150",
+            label: "TBZ Wiki",
             position: "right",
           },
         ],
