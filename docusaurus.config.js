@@ -79,7 +79,7 @@ const config = {
           {
             href: "https://github.com/gugiry17/m150",
             label: "GitHub",
-              position: "right",
+            position: "right",
           },
           {
             href: "https://www.tbzwiki.ch/index.php?title=Modul_150",
