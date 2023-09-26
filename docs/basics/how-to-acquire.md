@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 id: bitcoin-erwerben
 title: Wie erwirbt man Bitcoin
 sidebar_label: Bitcoin erwerben
