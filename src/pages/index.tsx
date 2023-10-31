@@ -26,7 +26,9 @@ export default function Home(): JSX.Element {
     >
       <HomepageHeader />
       <main>
-        <h1>Don't worry, it's just a school project.</h1>
+        <h1 style={{ textAlign: "center", paddingTop: "10rem" }}>
+          Don't worry, it's just a school project.
+        </h1>
       </main>
     </Layout>
   );
