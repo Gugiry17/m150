@@ -15,9 +15,11 @@ wurde. Der Aufschwung führte dazu, dass bereits im November ein Wechselkurs von
 Danach dauerte es allerdings bis März 2017, bis der Höchststand von 2013
 erreicht wurde. Anschliessend stieg der bis im November 2017 auf über 10'000
 USD. Am 17. Dezember 2017 wurde das damalige Allzeithoch von 19'783 USD erzielt.
-Die Freude währte aber nur kurz. Bereits am 22. Dezember verlor Bitcoin
-innerhalb von 24h beinahe einen Drittel des Wertes und notierte bei unter 14'000
+Die Freude währte aber nur kurz. Bereits am 22. Dezember verlor Bitcoin allerdings
+innerhalb von 24h beinahe ein Drittel des Wertes und notierte bei unter 14'000
 USD.
+
+![Beispiel für eine Bitcoin-Zahlungsadresse](Bitcoin_usd_price.svg)
 
 Bis in den Dezember 2018 sollte Bitcoin noch bis auf 3'300 USD abstürzen.
 Während er im Juli 2019 auf über 10'000 USD stieg, sank der Wert im März 2020
