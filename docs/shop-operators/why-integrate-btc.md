@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Warum Bitcoin als Zahlungsmethode integrieren?
 
 Bitcoin ist eine digitale Währung, die Ihr Geschäft auf vielfältige Weise bereichern kann. Hier sind einfache Gründe, warum Sie Bitcoin-Zahlungen in Ihrem Webshop oder Unternehmen integrieren sollten:
