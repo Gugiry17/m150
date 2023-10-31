@@ -25,7 +25,9 @@ export default function Home(): JSX.Element {
       description="Description will go into a meta tag in <head />"
     >
       <HomepageHeader />
-      <main></main>
+      <main>
+        <h1>Don't worry, it's just a school project.</h1>
+      </main>
     </Layout>
   );
 }
