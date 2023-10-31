@@ -36,7 +36,7 @@ sidebar_position: 2
 ## 6. **Anonymität und Privatsphäre**
 
 - Bitcoin-Transaktionen können pseudonym sein, da sie nicht direkt mit der
-  Identität der Benutzer verknüpft sind. Dies bietet ein gewisses Maß an
+  Identität der Benutzer verknüpft sind. Dies bietet ein gewisses Mass an
   Anonymität.
 
 ## 7. **Innovationspotential**

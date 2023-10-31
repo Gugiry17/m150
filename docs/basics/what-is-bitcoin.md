@@ -27,7 +27,7 @@ Einige der Hauptmerkmale und Vorteile von Bitcoin sind:
 - **Fälschungssicher**: Dank der Blockchain-Technologie ist es extrem schwierig,
   Bitcoin-Transaktionen zu manipulieren oder zu fälschen.
 - **Transparenz**: Da die Blockchain öffentlich ist, kann jeder Transaktionen
-  verfolgen und überprüfen, wodurch ein hohes Maß an Transparenz gewährleistet
+  verfolgen und überprüfen, wodurch ein hohes Mass an Transparenz gewährleistet
   wird.
 - **Grenzüberschreitend**: Bitcoin kann ohne erhebliche Gebühren oder
   Wartezeiten weltweit gesendet werden.

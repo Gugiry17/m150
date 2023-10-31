@@ -13,6 +13,6 @@ Schweiz gibt es noch nicht viele Webshops, die Bitcoin-Zahlungen ermöglichen.
 
 ### Digitec Galaxus
 
-Digitec Galaxus ist einer der größten Online-Händler der Schweiz und akzeptiert
+Digitec Galaxus ist einer der grössten Online-Händler der Schweiz und akzeptiert
 Bitcoin als Zahlungsmittel für eine Vielzahl von Produkten, von Elektronik bis
 hin zu Haushaltswaren.

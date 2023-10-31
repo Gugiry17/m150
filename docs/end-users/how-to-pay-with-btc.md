@@ -27,7 +27,7 @@ eine Bitcoin-Adresse und den zu zahlenden Betrag in Bitcoin anzeigen.
 :::caution
 
 Stellen Sie sicher, dass Sie die angezeigte Bitcoin-Adresse korrekt übertragen,
-um sicherzustellen, dass Ihre Zahlung ordnungsgemäß verarbeitet wird.
+um sicherzustellen, dass Ihre Zahlung ordnungsgemäss verarbeitet wird.
 
 :::
 

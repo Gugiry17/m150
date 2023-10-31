@@ -47,7 +47,7 @@ innovative Anwendungen.
 ## 6. **Schutz der Privatsphäre**
 
 Bitcoin-Transaktionen können pseudonym sein und sind nicht direkt mit der
-Identität der Benutzer verknüpft. Dies bietet ein gewisses Maß an Anonymität.
+Identität der Benutzer verknüpft. Dies bietet ein gewisses Mass an Anonymität.
 
 ## 7. **Teilnahme an einer globalen Community**
 

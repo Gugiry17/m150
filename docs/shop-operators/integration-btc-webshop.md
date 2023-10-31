@@ -47,7 +47,7 @@ nutzen.
    Informationen erhalten Sie von Ihrem Bitcoin-Zahlungs-Gateway.
 
 4. **Testen Sie die Integration**: Führen Sie einen Testkauf durch, um
-   sicherzustellen, dass die Bitcoin-Zahlungen ordnungsgemäß funktionieren.
+   sicherzustellen, dass die Bitcoin-Zahlungen ordnungsgemäss funktionieren.
    Verwenden Sie dazu eine Test-Wallet.
 
 ## Schritt 5: Bieten Sie Anleitung für Kunden an
@@ -59,17 +59,17 @@ Bitcoin-Zahlung von einem Wallet sein.
 ## Schritt 6: Sicherheit und Compliance
 
 Stellen Sie sicher, dass Ihre Website sicher ist und dass alle Transaktionen
-verschlüsselt werden. Beachten Sie außerdem die lokalen Steuervorschriften und
+verschlüsselt werden. Beachten Sie ausserdem die lokalen Steuervorschriften und
 Compliance-Anforderungen, um rechtliche Probleme zu vermeiden.
 
 ## Schritt 7: Aktualisieren und Warten
 
 Halten Sie Ihr E-Commerce-System und Ihre Bitcoin-Integration auf dem neuesten
 Stand, um die Sicherheit und Funktionalität zu gewährleisten. Überprüfen Sie
-regelmäßig die Wallets und die Zahlungs-Gateways auf Transaktionen.
+regelmässig die Wallets und die Zahlungs-Gateways auf Transaktionen.
 
 ## Fazit
 
 Die Integration von Bitcoin-Zahlungen in Ihren Webshop erweitert die
 Zahlungsoptionen für Ihre Kunden und kann dazu beitragen, neue Zielgruppen zu
-erschließen.
+erschliessen.

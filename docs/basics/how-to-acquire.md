@@ -29,8 +29,8 @@ Auf P2P-Plattformen können Sie direkt mit anderen Benutzern handeln.
 
 - Melden Sie sich auf einer P2P-Plattform an.
 - Wählen Sie einen Verkäufer aus, der Bitcoin verkauft.
-- Schließen Sie die Transaktion ab, indem Sie das Geld überweisen.
-- Die Plattform dient als Treuhänder, um die Transaktion sicher abzuschließen.
+- Schliessen Sie die Transaktion ab, indem Sie das Geld überweisen.
+- Die Plattform dient als Treuhänder, um die Transaktion sicher abzuschliessen.
 
 Beispiele für P2P-Plattformen sind [LocalBitcoins](https://localbitcoins.com/)
 und [Paxful](https://paxful.com/).

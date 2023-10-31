@@ -39,7 +39,7 @@ gestalten und die Schöpfung neuer Bitcoins (Mining) zu regulieren.
 ### **5. Pseudonymität:**
 
 Benutzer verwenden Wallet-Adressen, um Transaktionen durchzuführen, anstatt
-persönliche Informationen preiszugeben. Dies bietet ein gewisses Maß an
+persönliche Informationen preiszugeben. Dies bietet ein gewisses Mass an
 Privatsphäre, erfordert jedoch Vorsicht.
 
 ### **6. Globale Akzeptanz:**
@@ -69,7 +69,7 @@ Bitcoin hat verschiedene Anwendungsbereiche:
   Absicherung gegen Wertverlust.
 
 - **Blockchain-Technologie:** Die zugrunde liegende Blockchain hat Anwendungen
-  außerhalb von Bitcoin, wie z.B. in der Lieferkettenverfolgung und
+  ausserhalb von Bitcoin, wie z.B. in der Lieferkettenverfolgung und
   Abstimmungssystemen.
 
 :::note Fazit
