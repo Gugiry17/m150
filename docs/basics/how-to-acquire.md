@@ -53,8 +53,7 @@ kaufen.
 
 :::info Hinweis
 
-Bitte stellen Sie sicher, dass Sie sich vor dem Kauf von Bitcoin
-gründlich informieren und möglicherweise professionelle Beratung in Anspruch
-nehmen.
+Bitte stellen Sie sicher, dass Sie sich vor dem Kauf von Bitcoin gründlich
+informieren und möglicherweise professionelle Beratung in Anspruch nehmen.
 
 :::
